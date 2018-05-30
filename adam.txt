@@ -1,1 +1,6 @@
 Drop table users 
+
+
+select * from users 
+
+-- why is this comment here 
